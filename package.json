@@ -4,7 +4,7 @@
   "description": "A boilerplate for UI development with React and Less",
   "main": "index.js",
   "scripts": {
-   "start": "webpack-dev-server --hot --inline"
+   "start": "./node_modules/.bin/webpack-dev-server --hot --inline"
   },
   "repository": {
     "type": "git",

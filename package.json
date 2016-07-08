@@ -1,10 +1,10 @@
 {
   "name": "react-less-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A boilerplate for UI development with React and Less",
   "main": "index.js",
   "scripts": {
-   "start": "./node_modules/.bin/webpack-dev-server --hot --inline"
+   "start": "./node_modules/.bin/webpack-dev-server --hot --inline --progress"
   },
   "repository": {
     "type": "git",

@@ -1,7 +1,9 @@
 # react-less-boilerplate
 
-1. `git clone git@github.com:quietshu/react-less-boilerplate.git`
-2. `cd react-less-boilerplate`
-3. `npm install`
-4. `npm start`
-5. Good to go!
+Webpack, React & React Hot Reload, ES6, Less & CSS Prefixer.
+
+- `git clone git@github.com:quietshu/react-less-boilerplate.git`
+- `cd react-less-boilerplate`
+- `npm install`
+- `npm start`
+- Good to go!
